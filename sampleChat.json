@@ -1,0 +1,36 @@
+{
+  "contents": [
+    {
+      "role": "system",
+      "parts": [
+        {
+          "text": "Ensure your response only contains the text of the response, no other text or characters. The text of your response must not contain any JSON."
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "Who is the CEO of GE Appliances?"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Kevin Nolan \n"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "How many employees do they have?"
+        }
+      ]
+    }
+  ]
+}
